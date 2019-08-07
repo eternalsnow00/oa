@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+	<link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="/css/style.css" rel="stylesheet" type="text/css" />
+    <body>
+		<div class="container">
+			<p class="title_p">报表统计</p>
+			<form class="form-horizontal" action="/download">
+			  <div class="form-group">
+				  <label class="col-sm-2 control-label text-left">选择报表:</label>
+				  <div class="col-sm-4">
+				  	<select class="form-control" id="excel" name="excel">
+				  	  <option value="0" selected>差旅费统计</option>
+				  	  <option value="1">出差统计</option>
+					  <option value="2">加班统计表</option>
+				  	</select>
+				  </div>
+			  </div>
+			  <div class="form-group">
+				<label class="col-sm-2 control-label text-left">选择月份:</label>
+				<div class="col-sm-4">
+					<select class="form-control" id="selectMonth" name="selectMonth">
+					  <option value="1">1</option>
+					  <option value="2">2</option>
+					  <option value="3">3</option>
+					  <option value="4">4</option>
+					  <option value="5">5</option>
+					  <option value="6">6</option>
+					  <option value="7">7</option>
+					  <option value="8">8</option>
+					  <option value="9">9</option>
+					  <option value="10">10</option>
+					  <option value="11">11</option>
+					  <option value="12">12</option>
+					</select>
+				</div>
+			  </div>
+			   <div class="form-group">
+				<div class="col-sm-offset-2 col-sm-10">
+				  <button type="submit" class="btn btn-default">导出</button>
+				</div>
+			  </div>
+			</form>
+		</div>
+    </body>
+	<script src="/js/jquery.js"></script>
+	<script>
+		$(document).ready(function(){
+			var date = new Date();
+			var month = date.getMonth() + 1;
+			$("#selectMonth").val(month);
+			$("#selectMonth2").val(month);
+			$("#excel").change(function(){
+				if($(this).val() == 0){
+					$("form").attr("action","/download");
+				}else if($(this).val() == 1){
+					$("form").attr("action","/download2");
+				}else{
+					$("form").attr("action","/download3");
+				}
+			})
+		})
+	</script>
+</html>

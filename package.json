@@ -1,0 +1,25 @@
+{
+  "name": "node_vote",
+  "version": "0.1.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon bin/www"
+  },
+  "dependencies": {
+    "co-log": "^1.0.11",
+    "co-util": "^1.0.81",
+    "debug": "^2.6.3",
+    "ejs": "^2.6.1",
+    "excel-export": "^0.5.1",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-convert": "^1.2.0",
+    "koa-hbs": "^1.0.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.1.1",
+    "koa-static": "^3.0.0",
+    "koa-views": "^5.2.1",
+    "moment": "^2.24.0",
+    "mysql": "^2.17.1"
+  }
+}

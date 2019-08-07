@@ -1,0 +1,2531 @@
+[2019-07-13 18:30:52.020] [INFO] - Listening on port 8880
+[2019-07-13 18:31:03.068] [INFO] - [ RowDataPacket { place: '九亭', price: 50 },
+  RowDataPacket { place: '佘山', price: 30 },
+  RowDataPacket { place: '叶榭', price: 30 },
+  RowDataPacket { place: '小昆山', price: 30 },
+  RowDataPacket { place: '新桥', price: 30 },
+  RowDataPacket { place: '新浜', price: 50 },
+  RowDataPacket { place: '泖港', price: 30 },
+  RowDataPacket { place: '泗泾', price: 50 },
+  RowDataPacket { place: '洞泾', price: 30 },
+  RowDataPacket { place: '车墩', price: 30 } ]
+[2019-07-13 18:31:56.318] [INFO] - Listening on port 8880
+[2019-07-13 18:32:14.980] [INFO] - [ RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '车墩' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-02',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-03',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '小昆山' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范松岚',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  ... 56 more items ]
+[2019-07-13 18:32:15.238] [INFO] - [ RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '车墩' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-02',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-03',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '小昆山' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范松岚',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  ... 56 more items ]
+[2019-07-13 18:32:20.318] [INFO] - [ RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '车墩' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-02',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-03',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '小昆山' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范松岚',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  ... 56 more items ]
+[2019-07-13 18:32:50.385] [INFO] - [ RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '车墩' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-02',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-03',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '小昆山' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范松岚',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  ... 56 more items ]
+[2019-07-13 18:33:50.467] [INFO] - [ RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '万雪明',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '严晶',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '何健',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '冯霆',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '单喆',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '周忠高',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '夏翔',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '姚文军',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孙魁',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '车墩' },
+  RowDataPacket {
+    username: '孟存宏',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '季峰',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '宋勇鹏',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '张奇',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '彭德军',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-01',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-02',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐婉',
+    outdate: '2019-07-03',
+    department: '第一征收财务部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '徐沪',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '徐莹',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱春辉',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '朱玉秀',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '朱祎婷',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨肖叶',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '佘山' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-02',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '杨静',
+    outdate: '2019-07-03',
+    department: '第一征收党群工作部',
+    place: '' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '江淼',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '小昆山' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈丽君',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈军梅',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '九亭' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '沈秀华',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '叶榭' },
+  RowDataPacket {
+    username: '王强',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-01',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-02',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '王珂',
+    outdate: '2019-07-03',
+    department: '第一征收项目二部',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '罗玲',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-01',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-02',
+    department: '第一征收重大部',
+    place: '' },
+  RowDataPacket {
+    username: '胡捷',
+    outdate: '2019-07-03',
+    department: '第一征收重大部',
+    place: '新浜' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-01',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-02',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '苏从',
+    outdate: '2019-07-03',
+    department: '第一征收项目一部',
+    place: '泗泾' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-01',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-02',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范华',
+    outdate: '2019-07-03',
+    department: '第一征收办公室',
+    place: '' },
+  RowDataPacket {
+    username: '范松岚',
+    outdate: '2019-07-01',
+    department: '第一征收党群工作部',
+    place: '' },
+  ... 56 more items ]
+[2019-07-13 18:35:03.879] [INFO] - Listening on port 8880
+[2019-07-13 18:38:27.144] [INFO] - Listening on port 8880
+[2019-07-13 18:43:44.029] [INFO] - Listening on port 8880
+[2019-07-13 18:43:47.197] [INFO] - [ RowDataPacket { place: '九亭', price: 50 },
+  RowDataPacket { place: '佘山', price: 30 },
+  RowDataPacket { place: '叶榭', price: 30 },
+  RowDataPacket { place: '小昆山', price: 30 },
+  RowDataPacket { place: '新桥', price: 30 },
+  RowDataPacket { place: '新浜', price: 50 },
+  RowDataPacket { place: '泖港', price: 30 },
+  RowDataPacket { place: '泗泾', price: 50 },
+  RowDataPacket { place: '洞泾', price: 30 },
+  RowDataPacket { place: '车墩', price: 30 } ]
+[2019-07-13 18:44:34.526] [INFO] - Listening on port 8880

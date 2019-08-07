@@ -1,0 +1,258 @@
+[2019-07-04 23:51:37.783] [INFO] - Listening on port 8880
+[2019-07-04 23:51:42.345] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:51:42.362] [ERROR] - 
+[2019-07-04 23:51:42.362] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:51:42.363] [ERROR] - 
+[2019-07-04 23:51:42.368] [INFO] - file exist!
+[2019-07-04 23:51:59.940] [INFO] - Listening on port 8880
+[2019-07-04 23:52:02.412] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:52:02.428] [ERROR] - 
+[2019-07-04 23:52:02.428] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:52:02.428] [ERROR] - 
+[2019-07-04 23:52:02.432] [INFO] - file exist!
+[2019-07-04 23:52:21.920] [INFO] - Listening on port 8880
+[2019-07-04 23:52:23.527] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:52:23.541] [ERROR] - 
+[2019-07-04 23:52:23.541] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:52:23.541] [ERROR] - 
+[2019-07-04 23:52:23.546] [INFO] - try to create file!
+[2019-07-04 23:52:32.606] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:52:32.611] [ERROR] - 
+[2019-07-04 23:52:32.611] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:52:32.611] [ERROR] - 
+[2019-07-04 23:52:32.612] [INFO] - file exist!
+[2019-07-04 23:52:33.138] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:52:33.141] [ERROR] - 
+[2019-07-04 23:52:33.141] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:52:33.141] [ERROR] - 
+[2019-07-04 23:52:33.141] [INFO] - file exist!
+[2019-07-04 23:52:33.313] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:52:33.316] [ERROR] - 
+[2019-07-04 23:52:33.316] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:52:33.316] [ERROR] - 
+[2019-07-04 23:52:33.317] [INFO] - file exist!
+[2019-07-04 23:52:33.493] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:52:33.496] [ERROR] - 
+[2019-07-04 23:52:33.496] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:52:33.496] [ERROR] - 
+[2019-07-04 23:52:33.497] [INFO] - file exist!
+[2019-07-04 23:53:17.278] [INFO] - Listening on port 8880
+[2019-07-04 23:53:19.152] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:53:19.167] [ERROR] - 
+[2019-07-04 23:53:19.167] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:53:19.167] [ERROR] - 
+[2019-07-04 23:53:19.171] [INFO] - file exist!
+[2019-07-04 23:54:19.038] [INFO] - Listening on port 8880
+[2019-07-04 23:54:21.451] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:54:21.465] [ERROR] - 
+[2019-07-04 23:54:21.465] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:54:21.465] [ERROR] - 
+[2019-07-04 23:54:21.469] [INFO] - file exist!
+[2019-07-04 23:54:24.136] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:54:24.141] [ERROR] - 
+[2019-07-04 23:54:24.141] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:54:24.142] [ERROR] - 
+[2019-07-04 23:54:24.142] [INFO] - file exist!
+[2019-07-04 23:55:33.060] [INFO] - Listening on port 8880
+[2019-07-04 23:55:34.590] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:55:34.604] [ERROR] - 
+[2019-07-04 23:55:34.604] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:42
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:188:7)
+[2019-07-04 23:55:34.604] [ERROR] - 
+[2019-07-04 23:55:34.608] [INFO] - file exist!
+[2019-07-04 23:56:07.848] [INFO] - Listening on port 8880
+[2019-07-04 23:56:09.467] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:56:09.482] [ERROR] - 
+[2019-07-04 23:56:09.482] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:49:42
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:188:7)
+[2019-07-04 23:56:09.483] [ERROR] - 
+[2019-07-04 23:56:09.487] [INFO] - file exist!
+[2019-07-04 23:56:37.311] [INFO] - Listening on port 8880
+[2019-07-04 23:56:38.724] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:56:38.725] [INFO] - { stylesXmlFile: 'test.xml',
+  name: 'mysheet',
+  cols: 
+   [ { caption: 'id', type: 'number', width: 20 },
+     { caption: 'date', type: 'string', width: 50 } ],
+  rows: [ [ 1, '2016-06-20 16:22:31' ], [ 2, '2016-06-20 16:22:31' ] ] }
+[2019-07-04 23:56:38.729] [INFO] - file exist!
+[2019-07-04 23:58:12.663] [INFO] - Listening on port 8880
+[2019-07-04 23:58:14.499] [INFO] - { stylesXmlFile: 'test.xml',
+  name: 'mysheet',
+  cols: 
+   [ { caption: 'id', type: 'number', width: 20 },
+     { caption: 'date', type: 'string', width: 50 } ],
+  rows: [ [ 1, '2016-06-20 16:22:31' ], [ 2, '2016-06-20 16:22:31' ] ] }
+[2019-07-04 23:58:14.515] [ERROR] - 
+[2019-07-04 23:58:14.516] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:35:42
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:58:14.516] [ERROR] - 
+[2019-07-04 23:58:32.737] [INFO] - Listening on port 8880
+[2019-07-04 23:58:34.234] [INFO] - { stylesXmlFile: 'test.xml',
+  name: 'mysheet',
+  cols: 
+   [ { caption: 'id', type: 'number', width: 20 },
+     { caption: 'date', type: 'string', width: 50 } ],
+  rows: [ [ 1, '2016-06-20 16:22:31' ], [ 2, '2016-06-20 16:22:31' ] ] }
+[2019-07-04 23:58:34.250] [ERROR] - 
+[2019-07-04 23:58:34.250] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:35:42
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:58:34.250] [ERROR] - 
+[2019-07-04 23:59:42.780] [INFO] - Listening on port 8880
+[2019-07-04 23:59:44.389] [INFO] - /Users/ddddw/Documents/koaTest/lib
+[2019-07-04 23:59:44.390] [INFO] - { stylesXmlFile: 'test.xml',
+  name: 'mysheet',
+  cols: 
+   [ { caption: 'id', type: 'number', width: 20 },
+     { caption: 'date', type: 'string', width: 50 } ],
+  rows: [ [ 1, '2016-06-20 16:22:31' ], [ 2, '2016-06-20 16:22:31' ] ] }
+[2019-07-04 23:59:44.404] [ERROR] - 
+[2019-07-04 23:59:44.404] [ERROR] -   Error: ENOENT: no such file or directory, open 'test.xml'
+      at Object.fs.openSync (fs.js:646:18)
+      at Object.fs.readFileSync (fs.js:551:33)
+      at Sheet.generate (/Users/ddddw/Documents/koaTest/node_modules/excel-export/sheet.js:31:15)
+      at /Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:41:9
+      at Array.forEach (<anonymous>)
+      at generateMultiSheets (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:37:10)
+      at Object.exports.execute (/Users/ddddw/Documents/koaTest/node_modules/excel-export/index.js:110:2)
+      at /Users/ddddw/Documents/koaTest/lib/excel.js:50:36
+      at dispatch (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/ddddw/Documents/koaTest/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+[2019-07-04 23:59:44.404] [ERROR] - 
+[2019-07-04 23:59:44.408] [INFO] - try to create file!
